@@ -1,10 +1,4 @@
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/56ad253b-8ef9-44d1-ae33-c36f8c84d0e1
-
+live link of this project : https://fintechappbyauracraftlabs.netlify.app/
 ## Run Locally
 
 **Prerequisites:**  Node.js
