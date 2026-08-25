@@ -1,0 +1,6 @@
+{
+  "name": "PayFlow PK",
+  "description": "Production-ready Pakistani digital wallet and P2P instant payment application featuring RAAST transfers, CNIC cash pickups, mobile load, bill payments, and dynamic QR transactions.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
